@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuhan Wei</title>
+    <link>https://weiyuhan9703.github.io/</link>
+    <description>Recent content on Yuhan Wei</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://weiyuhan9703.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://weiyuhan9703.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiyuhan9703.github.io/about/</guid>
+      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
+Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
+Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://weiyuhan9703.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiyuhan9703.github.io/contact/</guid>
+      <description> Email: yuhan_wei@whu.edu.cn Phone: +86-18702786858   Mailing Address  School of Information Management, Wuhan University
+Wuhan, Hubei Province
+China. 430072
+  </description>
+    </item>
+    
+  </channel>
+</rss>
